@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Krishna-293/Krishna-293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ### 🔭 I’m currently working on my coding skills
 ### 🌱 I’m currently learning CSS
